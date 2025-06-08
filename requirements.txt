@@ -1,0 +1,6 @@
+streamlit
+ultralytics
+Pillow
+scikit-learn
+matplotlib
+torch
