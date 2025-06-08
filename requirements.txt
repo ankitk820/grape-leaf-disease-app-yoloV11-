@@ -1,7 +1,0 @@
-streamlit
-ultralytics
-Pillow
-scikit-learn
-matplotlib
-torch
-opencv-python-headless
