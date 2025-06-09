@@ -14,9 +14,8 @@ model = load_model()
 class_names = list(model.names.values())
 
 st.title("🍇 Grape Leaf Disease Detection using YOLOv11")
+st.write("This app uses a YOLOv11-based deep learning model to **detect diseases in grape leaves** from an uploaded image.")
 st.write("Upload an image of a grape leaf to detect the disease.")
-st.write("Upload an image of a grape leaf to detect the disease.")
-
 
 uploaded_file = st.file_uploader("Choose a grape leaf image", type=["jpg", "jpeg", "png"])
 
