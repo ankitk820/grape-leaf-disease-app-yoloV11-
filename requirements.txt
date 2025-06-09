@@ -1,0 +1,12 @@
+streamlit>=1.36.0
+ultralytics>=8.0.200
+pillow
+torch
+opencv-python-headless
+numpy
+scikit-learn
+matplotlib
+
+
+
+
